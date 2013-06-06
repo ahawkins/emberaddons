@@ -1,0 +1,8 @@
+<% entries.each do |entry| %>
+  <p class="leader">
+    <a href="<%= entry.link %>"><%= entry.name %></a> - <span class="author"><%=h entry.author %></span>
+  </p>
+  <p>
+    <%=h entry.desc %>
+  </p>
+<% end %>
