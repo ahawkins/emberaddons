@@ -1,7 +1,7 @@
 require 'sinatra'
 require 'yaml'
 
-Entry = Struct.new(:name, :link, :author, :desc)
+Entry = Struct.new(:name, :link, :author, :tldr, :desc)
 
 class App < Sinatra::Base
   def self.entries
@@ -24,5 +24,5 @@ class App < Sinatra::Base
 end
 
 App.entries = YAML.load_file("#{File.dirname(__FILE__)}/list.yml").map do |hash|
-  Entry.new hash.fetch('name'), hash.fetch('link'), hash.fetch('author'), hash.fetch('description')
+  Entry.new hash.fetch('name'), hash.fetch('link'), hash.fetch('author'), hash.fetch('tldr'), hash.fetch('description')
 end
