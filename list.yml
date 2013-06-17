@@ -16,3 +16,15 @@
   name: Validations
   tldr: Validations for your Ember Objects
   description: Quickly add validations to your Ember objects, comes with many property validators
+  
+- author: Adam Hawkins
+  link: https://github.com/ahawkins/ember.js/blob/groupable-mixin/packages/ember-runtime/lib/mixins/groupable.js
+  name: Ember.GroupableMixin
+  tldr: Turn an array into multiple smaller arrays
+  description: A simple mixin for turning larger arrays into smaller one for uses. Perfect for things like calendars or task lists.
+  
+- Author: Adam Hawkins
+  link: https://raw.github.com/ahawkins/ember.js/arrangable-mixin/packages/ember-runtime/lib/mixins/arrangeable.js
+  name: Ember.ArrangeableMixin
+  tldr: Sorting + Filtering in one array
+  description: A powerful filtering and sorting in one mixin.
