@@ -23,8 +23,14 @@
   tldr: Turn an array into multiple smaller arrays
   description: A simple mixin for turning larger arrays into smaller one for uses. Perfect for things like calendars or task lists.
   
-- Author: Adam Hawkins
+- author: Adam Hawkins
   link: https://raw.github.com/ahawkins/ember.js/arrangable-mixin/packages/ember-runtime/lib/mixins/arrangeable.js
   name: Ember.ArrangeableMixin
   tldr: Sorting + Filtering in one array
   description: A powerful filtering and sorting in one mixin.
+  
+- author: Erik Bryn
+  link: https://github.com/ebryn/ember-model
+  name: Ember.Model
+  tldr: Thin lightweight model wrapper
+  description: Simple and powerful alternative to Ember Data. Easy to get started with when you don't need the full ED package.
