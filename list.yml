@@ -34,3 +34,15 @@
   name: Ember.Model
   tldr: Thin lightweight model wrapper
   description: Simple and powerful alternative to Ember Data. Easy to get started with when you don't need the full ED package.
+  
+- author: Addepar
+  link: https://github.com/Addepar/ember-table
+  name: Ember Table
+  tldr: The fast table library
+  description: Table built using Ember.js that lazily renders rows.
+  
+- author: Alex Speller
+  link: https://github.com/alexspeller/ember-query
+  name: Ember Query
+  tldr: Query string support
+  description: A library enabling url query parameters to be used in ember applications. This feature is slated to be included in Ember.js 1.1.
