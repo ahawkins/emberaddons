@@ -4,3 +4,15 @@
   name: ListView
   tldr: An efficient incremental rendering list view for large lists.
   description: Ember.ListView works on mobile phones that support web overflow touch css, doesn't work on iOS because iOS doesn't emit scroll events during the momentum phase of a scroll nor do the elements know there offset top during that scroll phase.
+-
+  author: DockYard
+  link: https://github.com/dockyard/ember-easyForm
+  name: EasyForm
+  tldr: Semantic form builder for Ember
+  description: A form builder for Ember that was highly inspired by SimpleForm for Ruby on Rails
+
+- author: DockYard
+  link: https://github.com/dockyard/ember-validations
+  name: Validations
+  tldr: Validations for your Ember Objects
+  description: Quickly add validations to your Ember objects, comes with many property validators
