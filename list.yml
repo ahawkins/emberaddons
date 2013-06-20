@@ -52,3 +52,9 @@
   name: Ember I18n
   tldr: Internationalization for Ember
   description: "Supports translations, translatable properties, and translatable attributes in templates."
+
+- author: James A. Rosen
+  link: https://github.com/jamesarosen/ember-cpm
+  name: Ember ComputedProperty Macros
+  tldr: Extra ComputedProperty Macros for Ember
+  description: "Adds 'among', 'notMatch', 'safeString', 'promise', and many more ComputedProperty macros."
