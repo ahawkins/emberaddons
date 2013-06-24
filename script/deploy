@@ -1,0 +1,7 @@
+#!/bin/bash
+
+git pull --rebase origin master
+git push origin master
+heroku maintenance:on
+git push heroku master
+heroku maintenance:on
