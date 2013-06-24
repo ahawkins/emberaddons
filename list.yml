@@ -58,3 +58,9 @@
   name: Ember ComputedProperty Macros
   tldr: Extra ComputedProperty Macros for Ember
   description: "Adds 'among', 'notMatch', 'safeString', 'promise', and many more ComputedProperty macros."
+  
+- author: Jay Phelps
+  link: https://github.com/jayphelps/ember-string-interpolate
+  name: Ember.String.interpolate
+  tldr: Interpolated string properties
+  description: "Adds a new computed property for string interpolation to Ember. (i.e. no more getter concatenation)"
