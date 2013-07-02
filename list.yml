@@ -16,31 +16,31 @@
   name: Validations
   tldr: Validations for your Ember Objects
   description: Quickly add validations to your Ember objects, comes with many property validators
-  
+
 - author: Adam Hawkins
   link: https://github.com/ahawkins/ember.js/blob/groupable-mixin/packages/ember-runtime/lib/mixins/groupable.js
   name: Ember.GroupableMixin
   tldr: Turn an array into multiple smaller arrays
   description: A simple mixin for turning larger arrays into smaller one for uses. Perfect for things like calendars or task lists.
-  
+
 - author: Adam Hawkins
   link: https://raw.github.com/ahawkins/ember.js/arrangable-mixin/packages/ember-runtime/lib/mixins/arrangeable.js
   name: Ember.ArrangeableMixin
   tldr: Sorting + Filtering in one array
   description: A powerful filtering and sorting in one mixin.
-  
+
 - author: Erik Bryn
   link: https://github.com/ebryn/ember-model
   name: Ember.Model
   tldr: Thin lightweight model wrapper
   description: Simple and powerful alternative to Ember Data. Easy to get started with when you don't need the full ED package.
-  
+
 - author: Addepar
   link: https://github.com/Addepar/ember-table
   name: Ember Table
   tldr: The fast table library
   description: Table built using Ember.js that lazily renders rows.
-  
+
 - author: Alex Speller
   link: https://github.com/alexspeller/ember-query
   name: Ember Query
@@ -58,9 +58,21 @@
   name: Ember ComputedProperty Macros
   tldr: Extra ComputedProperty Macros for Ember
   description: "Adds 'among', 'notMatch', 'safeString', 'promise', and many more ComputedProperty macros."
-  
+
 - author: Jay Phelps
   link: https://github.com/jayphelps/ember-string-interpolate
   name: Ember.String.interpolate
   tldr: Interpolated string properties
   description: "Adds a new computed property for string interpolation to Ember. (i.e. no more getter concatenation)"
+
+- author: Teddy Zeenny
+  link: https://github.com/teddyzeenny/ember-data-factory
+  name: Ember Data Factory
+  tldr: Factory library for ember-testing
+  description: "Ember-testing helpers to create factories when testing Ember.js models."
+
+- author: Teddy Zeenny
+  link: https://github.com/teddyzeenny/ember-mocha-adapter
+  name: Ember Mocha Adapter
+  tldr: Mocha adapter for ember-testing
+  description: "A Mocha ember-testing adapter that automatically handles async tests."
