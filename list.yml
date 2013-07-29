@@ -76,3 +76,9 @@
   name: Ember Mocha Adapter
   tldr: Mocha adapter for ember-testing
   description: "A Mocha ember-testing adapter that automatically handles async tests."
+
+- author: Cory Forsyth
+  link: https://github.com/bantic/ember-infinite-scroll
+  name: Ember Infinite Scroll Mixins
+  tldr: Code to add infinite scrolling to your ember app
+  description: "Several mixins and some instructions for adding infinite scrolling capabilities to a route and controller in your ember app."
