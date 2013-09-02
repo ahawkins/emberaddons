@@ -82,3 +82,9 @@
   name: Ember Infinite Scroll Mixins
   tldr: Code to add infinite scrolling to your ember app
   description: "Several mixins and some instructions for adding infinite scrolling capabilities to a route and controller in your ember app."
+
+- author: Mike Harris
+  link: https://github.com/mharris717/ember-auth-easy
+  name: Ember Auth Easy
+  tldr: Simple library to do token authentication in Ember.js with minimal configuration. 
+  description: "Simple library to do token authentication in Ember.js with minimal configuration. Will work seamlessly with a corresponding Rails Engine (built on Devise). Includes login, with registration coming shortly."
