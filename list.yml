@@ -88,3 +88,9 @@
   name: Ember Auth Easy
   tldr: Simple library to do token authentication in Ember.js with minimal configuration. 
   description: "Simple library to do token authentication in Ember.js with minimal configuration. Will work seamlessly with a corresponding Rails Engine (built on Devise). Includes login, with registration coming shortly."
+
+- author: Arthur Gunn
+  link: https://github.com/gunn/ember-auto
+  name: Ember Auto
+  tldr: Nicer properties with less this.get("noise")
+  description: Injects the values of the property's dependent keys so you can just use them as arguments instead of this.getting them.
