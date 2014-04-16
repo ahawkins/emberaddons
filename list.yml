@@ -94,3 +94,9 @@
   name: Ember Auto
   tldr: Nicer properties with less this.get("noise")
   description: Injects the values of the property's dependent keys so you can just use them as arguments instead of this.getting them.
+
+- author: simplabs
+  link: https://github.com/simplabs/ember-simple-auth
+  name: Ember.SimpleAuth
+  tldr: A lightweight library for implementing authentication/authorization
+  description: "Ember.SimpleAuth is a lightweight library for implementing authentication/ authorization with Ember.js applications. It has minimal requirements with respect to application structure, routes etc. With its pluggable strategies it can support all kinds of authentication and authorization mechanisms."
