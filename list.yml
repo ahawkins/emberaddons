@@ -100,3 +100,15 @@
   name: Ember.SimpleAuth
   tldr: A lightweight library for implementing authentication/authorization
   description: "Ember.SimpleAuth is a lightweight library for implementing authentication/ authorization with Ember.js applications. It has minimal requirements with respect to application structure, routes etc. With its pluggable strategies it can support all kinds of authentication and authorization mechanisms."
+
+- author: Asaf Shakarchi
+  link: https://github.com/ember-addons/bootstrap-for-ember
+  name: Bootstrap for Ember
+  tldr: Bootstrap for Ember.js is a collection of UI components based on Twitter Bootstrap for Ember.js
+  description: "Bootstrap for Ember.js is a collection of UI components based on Twitter Bootstrap for Ember.js"
+  
+- author: Asaf Shakarchi
+  link: https://github.com/ember-addons/ember-forms
+  name: Ember Forms
+  tldr: Smart, Intuitive forms for Ember.js styled with Bootstrap & Validation ready.
+  description: "BootstrapSmart, Intuitive forms for Ember.js styled with Bootstrap & Validation ready."
