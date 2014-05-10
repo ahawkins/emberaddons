@@ -117,4 +117,4 @@
   link: https://github.com/danielspaniel/ember-data-factory-guy
   name: Ember Data FactoryGuy
   tldr: Ember data fixture factory for RESTAdapter, ActiveModelAdapter or FixtureAdapter
-  description: "Simple, easily interface for loading fixture data into the store for use in your tests. Comes with a TestHelper mixin to make this as easier that easy. It's like ruby's FactoryGirl but for ember data."
+  description: "Simple, easy interface for loading fixture data into the store for use in your tests. Comes with a TestHelper mixin to make this as smooth as possible. It's like ruby's FactoryGirl but for ember data."
