@@ -41,12 +41,6 @@
   tldr: The fast table library
   description: Table built using Ember.js that lazily renders rows.
 
-- author: Alex Speller
-  link: https://github.com/alexspeller/ember-query
-  name: Ember Query
-  tldr: Query string support
-  description: A library enabling url query parameters to be used in ember applications. This feature is slated to be included in Ember.js 1.1.
-
 - author: James A. Rosen
   link: https://github.com/jamesarosen/ember-i18n
   name: Ember I18n
