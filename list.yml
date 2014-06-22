@@ -112,3 +112,9 @@
   name: Ember Data FactoryGuy
   tldr: Ember data fixture factory for RESTAdapter, ActiveModelAdapter or FixtureAdapter
   description: "Simple, easy interface for loading fixture data into the store for use in your tests. Comes with a TestHelper mixin to make this as smooth as possible. It's like ruby's FactoryGirl but for ember data."
+
+- author: Vestorly
+  link: https://vestorly.github.io/torii
+  name: Torii
+  tldr: An authorization service library for Ember
+  description: "A set of simple, focused abstractions for authentication in Ember.js applications. Handles redirect-based client-side oauth flows, as well as lightweight session management support."
