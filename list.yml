@@ -112,3 +112,9 @@
   name: Ember Data FactoryGuy
   tldr: Ember data fixture factory for RESTAdapter, ActiveModelAdapter or FixtureAdapter
   description: "Simple, easy interface for loading fixture data into the store for use in your tests. Comes with a TestHelper mixin to make this as smooth as possible. It's like ruby's FactoryGirl but for ember data."
+
+- author: Asaf Shakarchi
+  link: https://github.com/indexiatech/ember-components
+  name: Ember Components
+  tldr: A set of rich web components written for Ember.js that let you create an astonishing UI for ambitious web applications.
+  description: "Ember-Components is a set of rich web components written for Ember.js that let you create an astonishing UI for ambitious web applications."
