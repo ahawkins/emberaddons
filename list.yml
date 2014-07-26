@@ -118,3 +118,9 @@
   name: Ember Components
   tldr: A set of rich web components written for Ember.js that let you create an astonishing UI for ambitious web applications.
   description: "Ember-Components is a set of rich web components written for Ember.js that let you create an astonishing UI for ambitious web applications."
+
+- author: Vestorly
+  link: https://vestorly.github.io/torii
+  name: Torii
+  tldr: An authorization service library for Ember
+  description: "A set of simple, focused abstractions for authentication in Ember.js applications. Handles redirect-based client-side oauth flows, as well as lightweight session management support."
